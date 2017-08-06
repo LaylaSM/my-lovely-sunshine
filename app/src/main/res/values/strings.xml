@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MyLovelySunshine</string>
+    <string name="sunshine">Sunday</string>
+    <string name="today">Sunday, 06 August</string>
+    <string name="sunny">Sunny</string>
+    <string name="_17_derajat">17</string>
 </resources>
